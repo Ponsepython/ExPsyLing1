@@ -18,4 +18,4 @@ Konnichiwa
 
 Things are going so smoothly in the class so far, except I'm constantly asking "wait what"
 
-
+Salut, bonjour, baguette, j'aime le francais oui oui mouette
