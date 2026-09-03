@@ -14,4 +14,8 @@ Here os a list
 - item 2
 - item 3
 
+Konnichiwa
+
+Things are going so smoothly in the class so far, except I'm constantly asking "wait what"
+
 
